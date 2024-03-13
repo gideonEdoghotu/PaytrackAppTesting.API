@@ -1,0 +1,16 @@
+EXTENSION METHOD
+//public static class ConfigureDatabaseExtension
+//{
+//    public static IServiceCollection ConfigureDatabase(this IServiceCollection serviceCollection, IConfiguration configuration)
+//    {
+//        serviceCollection.AddDbContext<DataContext>(options =>
+//        {
+//            options.UseSqlServer(configuration.GetConnectionString("DefaultConnection"));
+//        });
+
+//        return serviceCollection;
+//    }
+//}
+
+
+//builder.Services.ConfigureDatabase(builder.Configuration);
